@@ -7,7 +7,6 @@ h1 {
   font-size: 60px;
   text-align: center;
   /*=======  Update the font size to 60px and center the text */
-  font-size: 10px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -16,7 +15,6 @@ h2, h3, h4, h5, h6 {
   padding: 0 10px;
   font-size: 30px;
   /*=======  Update the font size to 30px */
-  font-size: 10px;
 }
 
 /*======= Create a selector for ALL p tags in the site to have the following styles:
@@ -69,7 +67,7 @@ img {
   text-decoration: none;
   margin-bottom: 20px;
    /*======= create a background property. Set the value to #F87B99 */
-  background: F87B9; 
+  background: #F87B99; 
 }
 
 .container header nav a:hover {
