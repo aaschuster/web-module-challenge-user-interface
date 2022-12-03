@@ -4,6 +4,8 @@
 h1 {
   font-family: 'Gaegu', cursive;
   margin: 20px 0;
+  font-size: 60px;
+  text-align: center;
   /*=======  Update the font size to 60px and center the text */
   font-size: 10px;
 }
@@ -12,6 +14,7 @@ h2, h3, h4, h5, h6 {
   font-family: 'Gaegu', cursive;
   margin-bottom: 0;
   padding: 0 10px;
+  font-size: 30px;
   /*=======  Update the font size to 30px */
   font-size: 10px;
 }
